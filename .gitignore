@@ -221,6 +221,6 @@ __marimo__/
 
 
 # Gephi
-.gexf
+*.gexf
 
-.jsonl
+*.jsonl
